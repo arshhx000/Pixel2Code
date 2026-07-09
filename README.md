@@ -2,7 +2,7 @@
 
 RasterForge Data
 
-Pixel Data Studio is a high-performance, web-based utility designed for hardware hackers, embedded engineers (Arduino/Raspberry Pi), and retro game developers. It allows you to rapidly extract color matrices from images and export them into various data arrays (C/C++, JSON, CSV, Python) to drive LED matrices, OLEDs, and embedded displays.
+RasterForge Data is a high-performance, web-based utility designed for hardware hackers, embedded engineers (Arduino/Raspberry Pi), and retro game developers. It allows you to rapidly extract color matrices from images and export them into various data arrays (C/C++, JSON, CSV, Python) to drive LED matrices, OLEDs, and embedded displays.
 
 ---
 
