@@ -1,9 +1,7 @@
-# RASTERFORGE DATA (TE-1 SYS_ARCH)
-
-RasterForge Data
+# PIXEL2CODE 
 ![RasterForge Screenshot](./screenshot%201.jpeg)
 
-RasterForge Data is a high-performance, web-based utility designed for hardware hackers, embedded engineers (Arduino/Raspberry Pi), and retro game developers. It allows you to rapidly extract color matrices from images and export them into various data arrays (C/C++, JSON, CSV, Python) to drive LED matrices, OLEDs, and embedded displays.
+Pixel2Code is a high-performance, web-based utility designed for hardware hackers, embedded engineers (Arduino/Raspberry Pi), and retro game developers. It allows you to rapidly extract color matrices from images and export them into various data arrays (C/C++, JSON, CSV, Python) to drive LED matrices, OLEDs, and embedded displays.
 
 ---
 
@@ -28,8 +26,8 @@ You will need [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/arshhx000/RasterForge-Data]
-   cd RasterForge-Data
+   git clone [https://github.com/arshhx000/Pixel2Code]
+   cd Pixel2Code
    ```
 
 2. Install dependencies:
